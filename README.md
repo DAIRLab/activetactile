@@ -1,16 +1,18 @@
 # Active Tactile Exploration
 
-This is the repository that contains source code for the [Active Tactile Exploration for Rigid Body Pose and Shape Estimation](https://dairlab.github.io/activetactile/).
+This is the repository that contains source code for the website [Active Tactile Exploration for Rigid Body Pose and Shape Estimation](https://dairlab.github.io/activetactile/).
+
+The project's source code is available [here](https://github.com/DAIRLab/dair_pll/tree/egordon/exploration/).
 
 If you find it useful for your work please cite:
 ```
-@article{gordon2026active,
-  title={Active Tactile Exploration for Rigid Body Pose and Shape Estimation},
-  author={Gordon, Ethan K. and Baraki, Bruke and Bui, Hien and Posa, Michael},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+@inproceedings{gordon2026active,
+  title={Active Tactile Exploration for Rigid Body Pose and Shape Estimation}, 
+  author={Ethan K. Gordon and Bruke Baraki and Hien Bui and Michael Posa},
+  booktitle={2026 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  year={2026},
+  url={https://arxiv.org/abs/2510.13595}
 }
-
 ```
 
 # Website License
